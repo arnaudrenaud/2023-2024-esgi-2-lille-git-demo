@@ -15,4 +15,4 @@ git init
 
 ### Travailler avec GitHub
 
-Créer un dépôt sur GitHub puis le lier au dépôt local en remote (suivre les instructions sur GitHub après la création).
+Créer un dépôt sur GitHub puis le lier au dépôt local en remote (suivre les instructions sur GitHub après la création du repo).

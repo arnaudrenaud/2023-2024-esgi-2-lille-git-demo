@@ -12,3 +12,7 @@ Permet de revenir à une ancienne version, de décrire les différentes versions
 ```
 git init
 ```
+
+### Travailler avec GitHub
+
+Créer un dépôt sur GitHub puis le lier au dépôt local (suivre les instructions sur GitHub après la création).

@@ -23,3 +23,5 @@ Lorsque vous poussez une nouvelle branche sur GitHub, consultez la page du repo 
 Une fois la PR approuvée, vous pouvez merger la branche.
 
 ### Mettre de côté des changements
+
+Avancement définitif.
